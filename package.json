@@ -1,0 +1,8 @@
+{
+  "name": "mongo-edx-course",
+  "version": "0.0.1",
+  "author": "Priyank Patel",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
