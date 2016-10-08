@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Priyank Patel",
   "dependencies": {
+    "mongodb": "^2.2.10",
     "underscore": "^1.8.3"
   }
 }
